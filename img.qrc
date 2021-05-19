@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0"> 
+ <qresource prefix="/resources">
+    <file alias="open.png">./resources/open.png</file>
+    <file alias="alarm.png">./resources/alarm.png</file>
+    <file alias="close.png">./resources/close.png</file>
+    <file alias="state.png">./resources/state.png</file>
+    <file alias="broken.png">./resources/broken.png</file>
+    <file alias="state_up.png">./resources/state_up.png</file>
+    <file alias="state_down.png">./resources/state_down.png</file>
+    <file alias="up_active.png">./resources/up_active.png</file>
+    <file alias="up_normal.png">./resources/up_normal.png</file>
+    <file alias="down_active.png">./resources/down_active.png</file>
+    <file alias="down_normal.png">./resources/down_normal.png</file>
+  </qresource>
+</RCC>
